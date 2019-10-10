@@ -2,17 +2,18 @@
 .Contact {
   padding: 1em;
   background: #1b69f3;
-  width: 220px;
+  width: 250px;
   display: flex;
   align-items: center;
   margin: 20px;
-  border-radius: 50px 50px 0 50px;
+  border-radius: 50px 15px 0 50px;
 }
 
 /* Contact image */
 .Contact .avatar {
   margin-right: 1em;
-  width: 45px;
+  width: 50px;
+  border-radius: 100px;
 }
 
 .Contact .text{
