@@ -27,7 +27,7 @@ render() {
               <span className="status-offline"></span>
               )}
               <span className="status-text">
-                {this.state.status ? "Je suis là" : "Pfiout, plus là!"}
+                {this.state.status ? "Je suis là" : "Plus là!"}
               </span>
           </div>
         </div>
