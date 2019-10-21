@@ -3,8 +3,6 @@ import React from 'react';
 import ContactList from './Components/ContactList';
 import './App.css';
 
-
-
 // import Contact from './Components/Contact';
 
 // import Homer from './img/Homer_Simpson.png';
